@@ -1,2 +1,2 @@
-# jquery-flashing-text
-Exercise files for the course Flashing text with jQuery
+# Flashing text with jQuery
+Exercise files for the course **Flashing text with jQuery**
